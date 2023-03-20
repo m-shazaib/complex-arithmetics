@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="complex.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fake.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
