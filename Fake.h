@@ -94,5 +94,3 @@ private:
 
 };
 
-//(a+bi)(c+di)
-//nighatusman031@gmail.com
